@@ -1,3 +1,3 @@
 C - Simple Shell
-By: Arthur Rhoda
+By: Arthur Rhoda,
     Jacobs Agyei
